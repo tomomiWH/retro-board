@@ -1,3 +1,5 @@
+See I created new github repo. This is the place where you write instruction here. but for practice I am just writting here.. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
